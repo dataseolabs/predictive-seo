@@ -17,7 +17,7 @@ You can run directly step8_xgboost.R with our dataset : dataset/dataset-cleaned.
  
 # Configuration
  
-Just run predictRankings.Rproj
+Just run predictive-ranking.Rproj
  
 ## Get the sources
  
